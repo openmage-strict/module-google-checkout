@@ -1,0 +1,12 @@
+{
+    "name": "openmage-strict/module-google-checkout",
+    "description": "Mage_GoogleCheckout",
+    "license": "OSL-3.0",
+    "type": "magento-module",
+    "require": {
+        "magento-hackathon/magento-composer-installer": "*",
+        "openmage-strict/module-payment": "*",
+        "openmage-strict/module-sales": "*",
+        "openmage-strict/module-usa": "*"
+    }
+}

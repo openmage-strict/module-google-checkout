@@ -1,0 +1,3 @@
+src/app/code/core/Mage/GoogleCheckout/              app/code/core/Mage/GoogleCheckout/
+src/app/etc/modules/Mage_GoogleCheckout.xml         app/etc/modules/Mage_GoogleCheckout.xml
+src/app/locale/en_US/Mage_GoogleCheckout.csv        app/locale/en_US/Mage_GoogleCheckout.csv
